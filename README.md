@@ -41,8 +41,12 @@ graph LR
 * 6.06% delinquency rate — requires benchmarking against industry standards
 
 ### DASHBOARDS 
+
 <br/>
-![DASHBOARD - Credit Card Financial Dashboard - Customer](IMAGES/Customer .png)
+
+
+![DASHBOARD - Credit Card Financial Dashboard - Customer](IMAGES/Customer.png)
+
 
 <br/>
 
