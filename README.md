@@ -1,3 +1,13 @@
+Credit-Card-Financial-Analytics-End-to-End-Dashboard
+<br/>
+:clipboard: Executive Summary
+Overview
+Credit card portfolios operate on thin margins driven by transaction volume, interest income, activation rates, and delinquency risk. Weekly monitoring is not optional — it’s operationally critical.
+This project builds a structured analytics pipeline that transforms raw transaction and customer data into an executive-ready performance monitoring system. By integrating SQL-based data preparation with Power BI modeling and DAX-driven KPI logic, the dashboard enables stakeholders to track revenue drivers, customer segmentation, geographic concentration, and credit risk indicators in near real time.
+Rather than presenting static visuals, this solution replicates how a financial operations team would monitor portfolio health on a weekly cadence.
+
+
+
 # Credit_Card_Financial_Dashboard
 Credit Card Transaction and Customer Dashboard using Power BI.
 
